@@ -1,0 +1,14 @@
+ body {
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+ }
+
+ img {
+    width: 100px;
+ }
+
+.precio {
+   font-weight: 500;
+}
+
